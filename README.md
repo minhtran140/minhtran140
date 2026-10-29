@@ -1,7 +1,11 @@
-# Hi there! I'm Minh 👋
+<h1 align="center">
+  Hi there!
+  <img src="https://yt3.ggpht.com/KOxdr_z3A5h1Gb7kqnxqOCnbZrBmxI2B_tRQ453BhTWUhYAlpg5ZP8IKEBkcvRoY8grY91Q=w48-h48-c-k-nd" width="40" alt="Waving hand"/>
+</h1>
 
-### 🎓 PTIT Student | 🤖 Aspiring AI Engineer
-
+<h3 align="center">
+  🎓 PTIT Student | 🤖 Aspiring AI Engineer
+</h3>
 I'm a university student at **Posts and Telecommunications Institute of Technology (PTIT)**, passionate about Artificial Intelligence and software development.
 
 My goal is to become a skilled **AI Engineer**, turning innovative ideas into real-world solutions.
@@ -15,4 +19,4 @@ My goal is to become a skilled **AI Engineer**, turning innovative ideas into re
 
 ### 💡 My Philosophy
 > Learn. Build. Experiment. Improve.
-![face-orange-biting-nails](https://yt3.ggpht.com/HmsXEgqUogkQOnL5LP_FdPit9Z909RJxby-uYcPxBLNhaPyqPTcGwvGaGPk2hzB_cC0hs_pV=w48-h48-c-k-nd)
+
