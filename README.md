@@ -15,3 +15,4 @@ My goal is to become a skilled **AI Engineer**, turning innovative ideas into re
 
 ### 💡 My Philosophy
 > Learn. Build. Experiment. Improve.
+![face-orange-biting-nails](https://yt3.ggpht.com/HmsXEgqUogkQOnL5LP_FdPit9Z909RJxby-uYcPxBLNhaPyqPTcGwvGaGPk2hzB_cC0hs_pV=w48-h48-c-k-nd)
