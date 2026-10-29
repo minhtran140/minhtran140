@@ -1,11 +1,10 @@
-# 👋 Minh Tran
+#  Minh Tran
 
 **Student at PTIT**
 
-I’m a university student interested in **AI**, **machine learning**, **RAG**, and **computer hardware**.
+I’m a university student and i want to become an AI engineer*.
 
 ---
 
-### 🌐 Get in Touch
 
-- **GitHub:** [minhtran140](https://github.com/minhtran140)
+
